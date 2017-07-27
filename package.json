@@ -1,0 +1,15 @@
+{
+  "name": "backyard",
+  "version": "1.0.0",
+  "description": "Uso de Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edith Mandujano Rios",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0"
+  }
+}
